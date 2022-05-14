@@ -1,0 +1,33 @@
+body {
+    color: #00E156;
+    background-color: black;
+}
+
+#intro {
+    
+    text-align: justify;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+h1, h2 {
+    
+    text-align: center;
+}
+
+h2 {
+    margin-bottom: 35px;
+}
+
+figcaption {
+    
+    margin-top:15px;
+}
+
+footer {
+    font-size: 14px;
+    text-align: center;
+}
+
