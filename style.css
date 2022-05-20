@@ -12,7 +12,7 @@ body {
     margin-bottom: 60px;
 }
 
-h1, h2 {
+h1, h2, h3 {
     
     text-align: center;
 }
@@ -21,9 +21,34 @@ h2 {
     margin-bottom: 35px;
 }
 
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 figcaption {
-    
+    text-align: center;
     margin-top:15px;
+}
+
+/*
+.like, .must {
+    height: 271.233px;
+}
+*/
+
+.like {
+    background: linear-gradient(160deg, rgb(0, 0, 0), rgb(29, 29, 176), rgb(222, 30, 209) 70%);
+    display: inline-block;
+    margin: auto;
+}
+
+.must {
+    background: linear-gradient(red, blue);
+    display: inline-block;
+    border-box: blue, solid;
+    margin: auto;
 }
 
 footer {
