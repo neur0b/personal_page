@@ -47,7 +47,7 @@ figcaption {
 .must {
     background: linear-gradient(red, blue);
     display: inline-block;
-    border-box: blue, solid;
+    border: 5px blue;
     margin: auto;
 }
 
